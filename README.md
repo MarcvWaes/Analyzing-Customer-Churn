@@ -16,10 +16,15 @@ Performed the following challenges:
 - age bins
 ![mcpmtllx le5](https://github.com/MarcvWaes/Datacamp-Analyzing-Customer-Churn/assets/120553175/0400e3db-46c0-4a33-b339-7ef79c5c941a)
 - inspecting groups
+![clr2ckfp x53](https://github.com/MarcvWaes/Datacamp-Analyzing-Customer-Churn/assets/120553175/e7bc2fdf-e3c5-4940-a974-53187c4afec3)
 - multiple fields
-- data 
-- international
+![rrewstof 3fq](https://github.com/MarcvWaes/Datacamp-Analyzing-Customer-Churn/assets/120553175/7bdc76e5-9359-4f84-bc69-3284141d5e8c)
+- data
+![p5im5n4p au4](https://github.com/MarcvWaes/Datacamp-Analyzing-Customer-Churn/assets/120553175/c249ebc7-062b-4856-b982-6efa3e0895f6)
+- international calls
+![0squtmgn o3r](https://github.com/MarcvWaes/Datacamp-Analyzing-Customer-Churn/assets/120553175/c0b2e372-3e5d-4529-bda5-04403d42d9b4)
 - contract type
+![qm3ydyd1 rzb](https://github.com/MarcvWaes/Datacamp-Analyzing-Customer-Churn/assets/120553175/c38e3d50-7381-4454-be05-04f68e2c173e)
 - overview page
 - age groups
 - payment contract
