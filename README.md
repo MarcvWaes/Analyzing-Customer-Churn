@@ -1,4 +1,4 @@
-# Datacamp-Analyzing-Customer-Churn
+# Analyzing-Customer-Churn
 
 Performed the following challenges:
 - data check
